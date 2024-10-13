@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I'm Jamil Ahamad AlAmin
+#### Learning App Development
+
+Skills: Dart / Flutter / JS / HTML / CSS
+
+- 🌱 I’m currently learning Flutter App development 
+- 💬 Ask me about App Development 
 
 
-**jamilahamad/jamilahamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamilahamad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/jaa06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdjamilahamad.alamin.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alaminahamad2728/)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamilahamad)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilahamad)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilahamad&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/jamilahamad)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jamilahamad)  
 
